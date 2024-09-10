@@ -1,0 +1,3 @@
+/home/josue/VS CODE/Proyecto/Mr.Do/build/CMakeFiles/Mr.Do.dir
+/home/josue/VS CODE/Proyecto/Mr.Do/build/CMakeFiles/edit_cache.dir
+/home/josue/VS CODE/Proyecto/Mr.Do/build/CMakeFiles/rebuild_cache.dir

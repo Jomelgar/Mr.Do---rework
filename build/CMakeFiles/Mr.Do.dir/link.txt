@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Mr.Do.dir/TextConsole/TextConsole.cpp.o CMakeFiles/Mr.Do.dir/Game/MyGame.cpp.o CMakeFiles/Mr.Do.dir/Game/Main.cpp.o -o Mr.Do  -L/usr/lib/x86_64-linux-gnu  -lSDL2 -lpthread -static-libgcc -static-libstdc++ 
