@@ -67,6 +67,10 @@ void MyGame::run()
                 con.setCursor(4,10);
                 con << "PRESIONE CUALQUIER TECLA";
                 menu = true;
+                con.setCursor(9,10);
+                con << "Mover es con las flechas, disparas con espacio. ";
+                con.setCursor(10,10);
+                con << "Tu objetivo es conseguir en cada mapa 2400 puntos o mas y sobrevivir.";
             }
              if (key != SDLK_UNKNOWN) {
                     con.clearScreen();
